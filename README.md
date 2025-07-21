@@ -1,0 +1,2 @@
+# RPG_PythonVersion
+PythonでのRPGゲーム作品用ポートフォリオ
